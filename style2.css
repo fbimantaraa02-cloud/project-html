@@ -1,0 +1,18 @@
+h1,h2,h3, p {
+  font-family :'Times New Roman', Times, serif;
+  color:rgb(2, 56, 65);
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
+.highlightp {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+#Profil-Diri {
+  color: rgb(172, 116, 66);
+  text-align: center;
+}
